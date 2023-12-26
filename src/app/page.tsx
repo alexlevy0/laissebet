@@ -14,9 +14,7 @@ export default function Home() {
                                 <div className="absolute rounded-full animate-blob  mix-blend-multiply filter blur-2xl opacity-70 -bottom-20 left-20 w-72 h-72 bg-pink-500" />
                                 <div className="w-screen max-h-screen">
                                         <HeaderNav />
-                                        <div className="w-screen max-h-screen">
-                                                <BigCard />
-                                        </div>
+                                        <BigCard />
                                 </div>
                         </div>
                 </div>
