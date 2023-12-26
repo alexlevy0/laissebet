@@ -10,7 +10,6 @@ import {
         NavbarMenuItem,
         NavbarMenuToggle,
 } from "@nextui-org/react"
-import { AcmeLogo } from "./AcmeLogo.jsx"
 
 export function HeaderNav() {
         const [isMenuOpen, setIsMenuOpen] = React.useState(false)
